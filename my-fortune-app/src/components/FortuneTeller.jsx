@@ -168,3 +168,4 @@ const FortuneTeller = () => {
 };
 
 export default FortuneTeller;
+
