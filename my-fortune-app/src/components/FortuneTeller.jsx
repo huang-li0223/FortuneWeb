@@ -7,7 +7,7 @@ import { Converter } from 'opencc-js';
 const converter = Converter({ from: 'cn', to: 'tw' });
 
 // ⭐ Roxy API Token
-const API_TOKEN = '143534f7-dabb-4f99-ba74-77fc9da39aee';
+const API_TOKEN = 'bac9a0c9-1302-4495-b84b-062f21a64921';
 
 // ⭐ NASA API Key
 const NASA_API_KEY = 't9Z5pJEV980lItvNoFknpSKBeqtLMnaPAP7akzg4';
